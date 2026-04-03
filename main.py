@@ -23,4 +23,4 @@ if __name__ == '__main__':
     print('----')
     print(truncate_text("The big black bear"))
     print('----')
-    print(truncate_text("The fast striped z.."))
+    print(truncate_text("The fast striped z..")) 
